@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Analysis and Data Science Field 
 - 🌱 I’m currently learning ...Data Analysis 
 - 📫 How to reach me ...
-- GMAIL : jothimanikandaswami@gmail.com
+- GMAIL : jothimanikandaswami@gmail.com and nadhiyakandaswami11@gmail.com
 
 <!---
 Nadhiya-hue/Nadhiya-hue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
