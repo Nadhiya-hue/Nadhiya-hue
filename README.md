@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Nadhiya-hue
+- 👋 Hi, I’m @Nadhiya-hue,B
+sc-IT Graduate 🎓
 - 👀 I’m interested in ... Data Analysis and Data Science Field 
 - 🌱 I’m currently learning ...Data Analysis 
 - 📫 How to reach me ...
